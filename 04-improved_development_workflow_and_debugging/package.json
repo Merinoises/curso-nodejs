@@ -1,0 +1,16 @@
+{
+  "name": "04-improved_development_workflow_and_debugging",
+  "version": "1.0.0",
+  "description": "Complete NodeJS Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Antonio Merino de Juan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
