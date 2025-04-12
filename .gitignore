@@ -19,4 +19,5 @@
 25-rest_project/node_modules/
 28-graphql/node_modules/
 29-deploying_the_app/node_modules/
+30-testing/node_modules
 .env
