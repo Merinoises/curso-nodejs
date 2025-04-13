@@ -20,4 +20,6 @@
 28-graphql/node_modules/
 29-deploying_the_app/node_modules/
 30-testing/node_modules
+32-typescript/node_modules
+32-typescript-node/node_modules
 .env
